@@ -11,7 +11,7 @@
 ## 타 모드 호환을 위한 레시피
 - ae2 서투스 석영 및 액정 수정
 - create 안산안 합금 및 황동
-## 같이 사용하는걸 권장 하는 모드
+## 필요 모드
 - mekanism(필수)
 - create
 - create addtion
