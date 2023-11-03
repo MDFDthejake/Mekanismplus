@@ -42,7 +42,10 @@
 ![다이아몬드 공정](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/dba0ac3c-08ca-40e8-bb9e-35deea4a180d)
 ## 타 모드 호환을 위한 레시피
 - ae2 서투스 석영 및 액정 수정
+
 - create 안산안 합금 및 황동
+
+- 우라늄 약 3만개와 형석 1만5천개를 헌납하면 크리에이트 모터를 받을수 있다. (반물질 3000mb)
 ## 필요 모드
 - [mekanism(필수)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [mekanism generators(필수)](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
