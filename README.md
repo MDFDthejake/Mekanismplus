@@ -27,6 +27,8 @@
 ![공장차원포탈](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/73eca4db-8ab0-4a45-9240-945d0a0f65f9)
 ## 단순화된 대량생성 공정
 ## 다이아몬드 제조 공정
+- 나무 자동화 후 남는 나무 재처리로 적합한 공정.
+![다이아몬드 공정](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/dba0ac3c-08ca-40e8-bb9e-35deea4a180d)
 ## 타 모드 호환을 위한 레시피
 - ae2 서투스 석영 및 액정 수정
 - create 안산안 합금 및 황동
