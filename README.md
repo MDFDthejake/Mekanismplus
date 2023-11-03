@@ -26,6 +26,16 @@
 - 포탈의 생김새는 다음과 같다.
 ![공장차원포탈](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/73eca4db-8ab0-4a45-9240-945d0a0f65f9)
 ## 단순화된 대량생성 공정
+- (화학적 산화 장치)-(기체)로 가는 공정에서 상당한 병목이 발생함. 그러한 병목을 최소화 하기위해 제작된 레시피.
+- 황 가루와 우라늄염 생산량이 뒷받침 되어야 한다.
+
+![압축된 황가루](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/ee9a0e38-d095-4226-8198-7c9cbb05e064)
+
+![이산화황](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/dd7bcf51-4203-43bf-b8bd-6ffc26a52811)
+
+![압축된 우라늄염](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/46a795be-1e53-4296-bf96-39363a797a12)
+
+![산화우라늄](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/4cb1beaf-c0a4-45b8-a242-065df736e7a1)
 ## 다이아몬드 제조 공정
 - 나무 자동화 후 남는 나무 재처리로 적합한 공정.
 - 화학적 투입 장치에 추가로 수증기가 필요함.
