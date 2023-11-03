@@ -12,8 +12,18 @@
 - 광석을 통과할수 있으며 광질에 각별한 주의가 필요하겠다.
 ![2023-11-03_11 11 36](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/20c4eb62-39c1-41f1-83a3-3486a21e470c)
 ## 공장 전용 차원
--포탈블록과 점화기의 조합법은 다음과 같다.
-
+- 말그대로 공장을 위한 파리만 날라댕기는 아무것도 없는 차원이다.
+- 공장에서 나오는 프레임 저하를 공장 전용 차원으로 옮김으로써 완화할수 있다.
+![공장전용차원](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/9b2b8ba9-f435-4396-9f00-20388abca413)
+- 포탈블록과 점화기의 조합법은 다음과 같다.
+- 포탈블록
+  
+![이상한 포탈블록 조합법](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/01376569-85eb-409e-8672-2fc5ee183e98)
+- 점화기
+  
+![이상한 포탈 점화기 조합법](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/6c2bc810-37c5-42c7-873d-748ca9870008)
+- 포탈의 생김새는 다음과 같다.
+![공장차원포탈](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/73eca4db-8ab0-4a45-9240-945d0a0f65f9)
 ## 단순화된 대량생성 공정
 ## 다이아몬드 제조 공정
 ## 타 모드 호환을 위한 레시피
