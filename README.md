@@ -43,9 +43,20 @@
 ## 타 모드 호환을 위한 레시피
 - ae2 서투스 석영 및 액정 수정
 
+![석영수정](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/885ea0b8-2f54-4657-9cb4-5fe99e18cab0)
+
+![액정수정](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/fb0ed80b-2754-4e8d-8f38-8b5889a0a4c7)
 - create 안산안 합금 및 황동
 
-- 우라늄 약 3만개와 형석 1만5천개를 헌납하면 크리에이트 모터를 받을수 있다. (반물질 3000mb)
+![안산암 합금](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/fee49983-c5f4-41ea-a212-c5faecb044e4)
+
+![황동](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/057d8645-079f-49f2-8497-b24126edef5e)
+
+- 우라늄 약 3만개와 형석 1만5천개를 헌납하면 크리에이티브 모터를 받을수 있다. (반물질 3000mb)
+- 기타 자잘한 레시피 등등....
+
+![반물질 삥뜯기](https://github.com/MDFDthejake/Mekanismplus/assets/149676229/846603f4-0b46-4f10-b544-c963dcd5fcbb)
+
 ## 필요 모드
 - [mekanism(필수)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [mekanism generators(필수)](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
